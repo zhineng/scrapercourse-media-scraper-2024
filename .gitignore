@@ -150,6 +150,10 @@ dmypy.json
 .pytype/
 image/
 
+video/
+
+csv/
+
 # Cython debug symbols
 cython_debug/
 
